@@ -18,10 +18,13 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: 'Lato', sans-serif;
-  background-image: url("/table.jpg");
+  
   color: black;
 
-  /*position: absolute;
+  /*
+   background-image: url("/table.jpg");
+
+  position: absolute;
   top: 0;
   left: 0;
   overflow: auto;
